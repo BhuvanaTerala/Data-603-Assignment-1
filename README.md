@@ -26,9 +26,9 @@ DataLakehouse is a Unified data platform which combines the benefits of data lak
 
 ### **References**
 
-+ [DigitalOcean](https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models)
++ [Drake, M., & Ostezer. (2019, August 9). A comparison of NoSQL database management systems and models. DigitalOcean.](https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models)
 
-+ [Databricks](https://www.databricks.com/glossary/data-lakehouse)
++ [What is a Data Lakehouse? (n.d.). Databricks.](https://www.databricks.com/glossary/data-lakehouse)
 
 
 
